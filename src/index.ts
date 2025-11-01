@@ -1,6 +1,6 @@
 import express from "express"
 import cors from "cors"
-import authRouter from "./routes/auth"
+import authRouter from "./routes/auth.routes"
 import dotenv from "dotenv"
 import mongoose from "mongoose"
 
